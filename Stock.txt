@@ -1,0 +1,3 @@
+Book1 ,Author 1,11,$ 12.45rs
+Book2 ,Author 2,15,$15.45rs
+Book3,Author 3,21,$156.34rs
